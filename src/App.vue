@@ -57,7 +57,7 @@ export default {
 	height: 100vh;
 }
 
-#blue-box {
+#vue-animate #blue-box {
 	position: absolute;
 	height: 100px;
 	width: 100px;
